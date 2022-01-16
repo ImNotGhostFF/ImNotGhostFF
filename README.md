@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImNotGhostFF
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... nothing
+- 👀 I’m interested in ... learn to program
+- 🌱 I’m currently learning ... programming and scripting
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... in my discord, but im a begginer of this
 
